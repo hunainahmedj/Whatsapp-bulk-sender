@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76504139418",
+    "firebase_url": "https://whatsmessender.firebaseio.com",
+    "project_id": "whatsmessender",
+    "storage_bucket": "whatsmessender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76504139418:android:2d0389b20d19bec1d80123",
+        "android_client_info": {
+          "package_name": "com.bulkwhatsappsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76504139418-bsp75cbji77agbkhl6fi0h0jeeoamahk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-nteQD8U1Cf5rphWF7v-N4hD8YZy3fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76504139418-bsp75cbji77agbkhl6fi0h0jeeoamahk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
